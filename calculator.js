@@ -53,7 +53,7 @@ function calculateSquare() {
 function calculateReciprocal() {
 	// Hint: Reciprocal is 1/x
 	let display = document.getElementById("display");
-	display.value = 1 / value;
+	display.value = 1 / display.value;
 }
 
 module.exports = {
