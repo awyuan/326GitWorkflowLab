@@ -47,6 +47,8 @@ function calculateSquareRoot(value=null) {
 // TODO: Implement square function
 function calculateSquare() {
     // Hint: Use exponentiation
+    let display = document.getElementById('display');
+    display.value = display.value ** 2;
 }
 
 // BUG: FIX reciprocal function
