@@ -38,13 +38,13 @@ ensuring the production branch is reliably functional.
 ### TODO Features:
 
 - [ ] Implement square root function
-- [ ] Implement square function
+- [X] Implement square function
 - [ ] Add keyboard support for number input
 - [ ] Improve the design (CSS styling)
 - [ ] Memory Store (`MS`), Recall (`MR`), and Clear (`MC`)
 
 ### Bugs:
-- [ ] Fix reciprocal function
+- [X] Fix reciprocal function
 
 ## Roadmap
 
